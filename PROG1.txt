@@ -1,0 +1,10 @@
+1.-libro = http://dle.rae.es/?id=NG3ktc6
+2.-gotico = http://dle.rae.es/?id=JNMHOU3
+3.-faraon = http://dle.rae.es/?id=HcLxiKz
+4.-perro = http://dle.rae.es/?id=SihVF3L
+5.-movil = http://dle.rae.es/?id=PxcFux4
+6.-ordenador = http://dle.rae.es/?id=R9dHZWB
+7.-campo = http://dle.rae.es/?id=711mEYU
+8.-remo = http://dle.rae.es/?id=Vu8FFiS
+9.-fallo = http://dle.rae.es/?id=HY5SxyL|HYD6RGN
+10.-pausa = http://dle.rae.es/?id=SCi2N5K
